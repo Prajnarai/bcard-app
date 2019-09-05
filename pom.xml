@@ -30,6 +30,5 @@
       <url>http://3.16.91.247:8081/nexus/content/repositories/bcard-app-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
-    ...
-  </distributionManagement>
+   </distributionManagement>
 </project>
