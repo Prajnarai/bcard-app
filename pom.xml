@@ -35,15 +35,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>bcard-app-releases</id>
       <name>bcard-app-releases</name>
-      <url>http://18.223.123.48:8081/nexus/content/repositories/bcard-app-releases/</url>
-      <layout>default</layout>
-      
+      <url>http://18.220.99.15:8081/nexus/content/repositories/bcard-app-releases/</url>
+      <layout>default</layout>   
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>bcard-app-snapshots</id>
       <name>bcard-app-snapshots</name>
-      <url>http://18.223.123.48:8081/nexus/content/repositories/bcard-app-snapshots/</url>
+      <url>http://18.220.99.15:8081/nexus/content/repositories/bcard-app-snapshots/</url>
       <layout>default</layout>
     </snapshotRepository>
    </distributionManagement>
