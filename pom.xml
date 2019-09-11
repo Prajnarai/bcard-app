@@ -8,11 +8,6 @@
   <name>bcard-app</name>
   <url>http://maven.apache.org</url>
   
-  <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
-                      https://maven.apache.org/xsd/settings-1.0.0.xsd">
-
   <servers>
     <server>
       <id>bcard-app-releases</id>
@@ -25,7 +20,7 @@
       <password>bcard-user</password>
     </server>
   </servers>
-</settings>
+
 
 
   <properties>
