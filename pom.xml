@@ -8,20 +8,7 @@
   <name>bcard-app</name>
   <url>http://maven.apache.org</url>
   
-  <servers>
-    <server>
-      <id>bcard-app-releases</id>
-      <username>bcard-user</username>
-      <password>bcard-user</password>
-    </server>
-    <server>
-      <id>bcard-app-snapshots</id>
-      <username>bcard-user</username>
-      <password>bcard-user</password>
-    </server>
-  </servers>
-
-
+  
 
   <properties>
 <maven.compiler.source>1.6</maven.compiler.source>
